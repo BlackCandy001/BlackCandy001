@@ -1,16 +1,29 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**BlackCandy001/BlackCandy001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="assets/banner.gif" width="100%" />
 
-Here are some ideas to get you started:
+<img src="assets/pixel-dev.gif" width="180"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+<h2 align="center">🧠 BlackCandy001</h2>
+<p align="center"><i>Backend • System • Java • Linux • Docker</i></p>
+
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=BlackCandy001&color=green&style=flat)
+![Followers](https://img.shields.io/github/followers/BlackCandy001?style=flat)
+![Stars](https://img.shields.io/github/stars/BlackCandy001?style=flat)
+
+</div>
+
+---
+
+## 👾 About Me (Pixel Mode)
+```text
+> Hello World!
+> I'm a backend developer
+> I love Linux, Docker & low-level systems
+> Interested in AI & Face Recognition
