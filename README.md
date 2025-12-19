@@ -1,232 +1,92 @@
 <div align="center">
 
-```
-██████╗ ██╗██╗  ██╗███████╗██╗         ██████╗ ██████╗  ██████╗      ██╗███████╗ ██████╗████████╗
-██╔══██╗██║╚██╗██╔╝██╔════╝██║         ██╔══██╗██╔══██╗██╔═══██╗     ██║██╔════╝██╔════╝╚══██╔══╝
-██████╔╝██║ ╚███╔╝ █████╗  ██║         ██████╔╝██████╔╝██║   ██║     ██║█████╗  ██║        ██║   
-██╔═══╝ ██║ ██╔██╗ ██╔══╝  ██║         ██╔═══╝ ██╔══██╗██║   ██║██   ██║██╔══╝  ██║        ██║   
-██║     ██║██╔╝ ██╗███████╗███████╗    ██║     ██║  ██║╚██████╔╝╚█████╔╝███████╗╚██████╗   ██║   
-╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝    ╚═╝     ╚═╝  ╚═╝ ╚═════╝  ╚════╝ ╚══════╝ ╚═════╝   ╚═╝   
-```
+<img src="assets/banner.gif" alt="Pixel Banner" width="100%" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FF41&center=true&vCenter=true&width=940&lines=Welcome+to+the+Pixel+Universe!+%F0%9F%8E%AE;Creating+Retro+Magic+%E2%9C%A8;Building+Amazing+Projects+%F0%9F%9A%80" alt="Typing Animation" />
+<img src="assets/avatar.gif" alt="Pixel Avatar" width="160" />
 
-```
-    ⠀⠀⠀⠀⠀⢀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⡀
-    ⠀⠀⠀⠀⣰⠋⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠙⣆
-    ⠀⠀⠀⢰⡇⠀⠀⠀⠀⠀⠀ GAME ON! 🎮⠀⠀⠀⠀⠀⠀⠀⢸⡆
-    ⠀⠀⠀⠈⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⠁
-    ⠀⠀⠀⠀⠙⢦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡴⠋
-    ⠀⠀⠀⠀⠀⠀⠈⠙⠲⠤⢤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⠤⠖⠋⠁
-```
+<h1>🧠 BLACK <span style="color:#ff6b6b">CANDY</span> 001</h1>
+
+<code>Backend • System • Java • Linux • Docker • AI</code>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=BlackCandy001&style=for-the-badge&color=00ff88" />
+<img src="https://img.shields.io/github/followers/BlackCandy001?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/github/stars/BlackCandy001?style=for-the-badge&logo=github" />
 
 </div>
 
 ---
 
-## 🕹️ About This Project
+## 👾 ABOUT ME
 
-```
-╔═══════════════════════════════════════════════════════════════════╗
-║                                                                   ║
-║  ██████   Welcome to an awesome retro-styled project!    ██████  ║
-║  ██  ██   This project combines modern tech with         ██  ██  ║
-║  ██████   classic pixel aesthetics for a unique          ██████  ║
-║           developer experience!                                   ║
-║                                                                   ║
-╚═══════════════════════════════════════════════════════════════════╝
-```
+<img src="assets/terminal.svg" alt="Pixel Terminal" width="100%" />
 
-Dự án này được xây dựng với tình yêu dành cho retro gaming và pixel art! 🎨✨
+Tôi là **Backend Developer**, tập trung vào:
+
+- Hệ thống backend ổn định, hiệu năng cao
+- Linux, Docker, hạ tầng & DevOps
+- Java, Spring, Node.js
+- AI, Computer Vision, Face Recognition
+
+Tư duy làm việc: **đơn giản – chắc chắn – kiểm soát được hệ thống**.
 
 ---
 
-## ⚡ Features
+## ⚙️ PIXEL TECH STACK
 
-<table>
-<tr>
-<td width="50%">
+### 🔧 BACKEND
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
-```
-┌─────────────────────┐
-│  🎮 FEATURE #1      │
-├─────────────────────┤
-│                     │
-│  ████████████       │
-│  ███╔═══██╗███      │
-│  ███║   ██║███      │
-│  ███║   ██║███      │
-│  ██████████████     │
-│                     │
-│  Amazing Feature!   │
-└─────────────────────┘
-```
+### 🚀 DEVOPS
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 
-</td>
-<td width="50%">
-
-```
-┌─────────────────────┐
-│  ⚡ FEATURE #2      │
-├─────────────────────┤
-│                     │
-│      ╔══════╗       │
-│      ║██████║       │
-│      ║██╔═██║       │
-│      ║████═╗║       │
-│      ╚══════╝       │
-│                     │
-│  Super Fast!        │
-└─────────────────────┘
-```
-
-</td>
-</tr>
-</table>
+### 🗄️ DATABASE
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 
 ---
 
-## 🚀 Quick Start
-
-```ascii
-    _______________
-   |  _________  |
-   | | START  >| |
-   | |_________| |
-   |  _______    |
-   | | A | B |   |
-   | |___|___|   |
-   |_____________|
-```
-
-### Installation
-
-```bash
-# Clone repository
-git clone https://github.com/your-username/your-project.git
-
-# Navigate to folder
-cd your-project
-
-# Install dependencies
-npm install
-
-# Start project
-npm start
-```
-
----
-
-## 🎨 Tech Stack
+## 📊 PIXEL STATS
 
 <div align="center">
 
-```
-┌───────┐  ┌───────┐  ┌───────┐  ┌───────┐  ┌───────┐
-│ ▓▓▓▓▓ │  │ ▓▓▓▓▓ │  │ ▓▓▓▓▓ │  │ ▓▓▓▓▓ │  │ ▓▓▓▓▓ │
-│ ▓▓▓▓▓ │  │ ▓▓▓▓▓ │  │ ▓▓▓▓▓ │  │ ▓▓▓▓▓ │  │ ▓▓▓▓▓ │
-│ ▓▓▓▓▓ │  │ ▓▓▓▓▓ │  │ ▓▓▓▓▓ │  │ ▓▓▓▓▓ │  │ ▓▓▓▓▓ │
-└───────┘  └───────┘  └───────┘  └───────┘  └───────┘
-  React      Node.js   MongoDB   Express   TypeScript
-```
+<img src="https://github-readme-stats.vercel.app/api?username=BlackCandy001&show_icons=true&theme=dark&bg_color=0d1117&title_color=00ff88&text_color=ffffff&icon_color=00ff88" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackCandy001&layout=compact&theme=dark&bg_color=0d1117&title_color=00ff88&text_color=ffffff" width="40%" />
+
+<img src="https://streak-stats.demolab.com?user=BlackCandy001&theme=dark&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88" width="60%" />
 
 </div>
 
 ---
 
-## 📊 Project Stats
-
-```
-╔════════════════════════════════════════════════════════════╗
-║                                                            ║
-║    ⭐ Stars: ████████░░░░ 80%                             ║
-║    🔧 Issues: ██░░░░░░░░░░ 20%                            ║
-║    📝 Commits: ████████████ 100% Active                   ║
-║    👥 Contributors: ████░░░░░░░░ 40%                      ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
-```
-
----
-
-## 🎯 Roadmap
-
-```
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│  Q1 2024  ████████████████████████░░░░░░░░░░  80%      │
-│           ✓ Feature A                                   │
-│           ✓ Feature B                                   │
-│           ○ Feature C (In Progress)                     │
-│                                                         │
-│  Q2 2024  ████████░░░░░░░░░░░░░░░░░░░░░░░░  30%        │
-│           ○ Feature D                                   │
-│           ○ Feature E                                   │
-│                                                         │
-│  Q3 2024  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0%         │
-│           ○ Feature F                                   │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-```
-
----
-
-## 🤝 Contributing
-
-```
-    ╔═════════════════════════════════════════╗
-    ║  👾 Want to contribute?                 ║
-    ║                                         ║
-    ║  1. Fork the repo                       ║
-    ║  2. Create your feature branch          ║
-    ║  3. Commit your changes                 ║
-    ║  4. Push to the branch                  ║
-    ║  5. Open a Pull Request                 ║
-    ║                                         ║
-    ║  Thank you for making this better! 🚀  ║
-    ╚═════════════════════════════════════════╝
-```
-
----
-
-## 📞 Contact & Social
+## 🔗 CONNECT
 
 <div align="center">
 
-```
-┌──────────────────────────────────────────────────┐
-│                                                  │
-│   ██████   [GitHub]   github.com/your-username  │
-│   ██  ██   [Twitter]  @your-handle              │
-│   ██████   [LinkedIn] linkedin.com/in/you       │
-│            [Email]    your@email.com            │
-│                                                  │
-└──────────────────────────────────────────────────┘
-```
+<img src="assets/divider.svg" width="60%" />
+
+<a href="https://github.com/BlackCandy001">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-## 📜 License
-
-```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║   This project is licensed under the MIT License             ║
-║   Feel free to use, modify, and distribute!                  ║
-║                                                               ║
-║   Copyright © 2024 Your Name                                 ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
----
-
 <div align="center">
-
-### ⚡ Happy Coding! Keep Building Awesome Stuff! 🚀
-
-![Pixel Divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
+<i>© BlackCandy001 · Pixel Animation Theme · GitHub Safe</i>
 </div>
