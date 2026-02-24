@@ -3,7 +3,7 @@
 # 🍫 Chào mừng bạn đến với không gian của tôi!
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/DrhtvX4cWU4AAAAd/arknights-virtuosa.gif" width="100%" />
+  <img arknights-w-dance.gif width="100%" />
 </p>
 
 ---
