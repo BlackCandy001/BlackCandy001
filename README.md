@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🍭 Chào mừng bạn đến với không gian của tôi!
+# 🍫 Chào mừng bạn đến với không gian của tôi!
 
 <p align="center">
   <img src="https://media1.tenor.com/m/DrhtvX4cWU4AAAAd/arknights-virtuosa.gif" width="100%" />
