@@ -3,7 +3,7 @@
 # 🌌 Chào mừng bạn đến với không gian của tôi!
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BlackCandy001/BlackCandy001/main/arknights-virtuosa-v3.gif" width="100%" />
+  <img src="https://media1.tenor.com/m/DrhtvX4cWU4AAAAd/arknights-virtuosa.gif" width="100%" />
 </p>
 
 <p align="center">
