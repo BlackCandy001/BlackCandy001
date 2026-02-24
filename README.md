@@ -2,7 +2,9 @@
 
 # 🌌 Chào mừng bạn đến với không gian của tôi!
 
-![Purple Header](arknights-virtuosa-v2.gif)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BlackCandy001/BlackCandy001/main/arknights-virtuosa-v3.gif" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A855F7&width=435&lines=Lập+trình+viên+đam+mê+công+nghệ;Yêu+thích+màu+tím+huyền+bí;Xây+dựng+những+điều+tuyệt+vời" alt="Typing SVG" />
