@@ -1,92 +1,65 @@
 <div align="center">
 
-<img src="assets/banner.gif" alt="Pixel Banner" width="100%" />
+# 🌌 Chào mừng bạn đến với không gian của tôi!
 
-<img src="assets/avatar.gif" alt="Pixel Avatar" width="160" />
+<!-- Thay thế link ảnh bằng link file thực tế sau khi bạn upload lên repo -->
 
-<h1>🧠 BLACK <span style="color:#ff6b6b">CANDY</span> 001</h1>
+![Purple Header](https://raw.githubusercontent.com/antigravity-research/purple-aura-readme/main/header.png)
 
-<code>Backend • System • Java • Linux • Docker • AI</code>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A855F7&width=435&lines=Lập+trình+viên+đam+mê+công+nghệ;Yêu+thích+màu+tím+huyền+bí;Xây+dựng+những+điều+tuyệt+vời" alt="Typing SVG" />
+</p>
 
-<br/><br/>
+---
 
-<img src="https://komarev.com/ghpvc/?username=BlackCandy001&style=for-the-badge&color=00ff88" />
-<img src="https://img.shields.io/github/followers/BlackCandy001?style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/github/stars/BlackCandy001?style=for-the-badge&logo=github" />
+### � Về tôi
+
+Tôi là một người yêu thích sự sáng tạo và những dòng code sạch sẽ. Luôn tìm kiếm những giải pháp tối ưu và giao diện ấn tượng.
+
+- 🔭 Tôi đang làm việc trên các dự án Open Source.
+- 💜 Màu sắc yêu thích: Tím (Purple / Violet / Indigo).
+- ⚡ Fun fact: Tôi tin rằng màu tím giúp tăng khả năng sáng tạo!
+
+---
+
+### �️ Kỹ năng của tôi
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,mongodb,tailwind,figma,git&theme=dark" />
+  </a>
+</p>
+
+---
+
+### 📊 Thống kê GitHub (Purple Theme)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=neon-palatine&bg_color=1a103c&title_color=a855f7&icon_color=a855f7&text_color=e2e8f0" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=neon-palatine&bg_color=1a103c&title_color=a855f7&icon_color=a855f7&text_color=e2e8f0" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=neon-palatine&background=1a103c&fire=a855f7&currStreakNum=e2e8f0&sideLabels=e2e8f0&dates=a855f7" alt="GitHub Streak" />
+</p>
+
+---
+
+### � Kết nối với tôi
+
+<p align="left">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="YOUR_LINKEDIN" height="30" width="40" /></a>
+<a href="https://fb.com/YOUR_FB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="YOUR_FB" height="30" width="40" /></a>
+</p>
 
 </div>
 
----
-
-## 👾 ABOUT ME
-
-<img src="assets/terminal.svg" alt="Pixel Terminal" width="100%" />
-
-Tôi là **Backend Developer**, tập trung vào:
-
-- Hệ thống backend ổn định, hiệu năng cao
-- Linux, Docker, hạ tầng & DevOps
-- Java, Spring, Node.js
-- AI, Computer Vision, Face Recognition
-
-Tư duy làm việc: **đơn giản – chắc chắn – kiểm soát được hệ thống**.
-
----
-
-## ⚙️ PIXEL TECH STACK
-
-### 🔧 BACKEND
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-
-### 🚀 DEVOPS
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-
-### 🗄️ DATABASE
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-
----
-
-## 📊 PIXEL STATS
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=BlackCandy001&show_icons=true&theme=dark&bg_color=0d1117&title_color=00ff88&text_color=ffffff&icon_color=00ff88" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackCandy001&layout=compact&theme=dark&bg_color=0d1117&title_color=00ff88&text_color=ffffff" width="40%" />
-
-<img src="https://streak-stats.demolab.com?user=BlackCandy001&theme=dark&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88" width="60%" />
-
-</div>
-
----
-
-## 🔗 CONNECT
-
-<div align="center">
-
-<img src="assets/divider.svg" width="60%" />
-
-<a href="https://github.com/BlackCandy001">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-</a>
-
-<a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-<i>© BlackCandy001 · Pixel Animation Theme · GitHub Safe</i>
-</div>
+<!--
+GHI CHÚ DÀNH CHO BẠN:
+1. Hãy thay "YOUR_USERNAME" bằng username GitHub của bạn.
+2. Hãy thay các link mạng xã hội của bạn vào phần Kết nối.
+3. Upload file banner tôi vừa tạo lên repo này, sau đó cập nhật link ảnh ở đầu file.
+-->
