@@ -4,7 +4,7 @@
 
 <!-- Thay thế link ảnh bằng link file thực tế sau khi bạn upload lên repo -->
 
-![Purple Header](https://raw.githubusercontent.com/antigravity-research/purple-aura-readme/main/header.png)
+![Purple Header](arknights-virtuosa.gif)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A855F7&width=435&lines=Lập+trình+viên+đam+mê+công+nghệ;Yêu+thích+màu+tím+huyền+bí;Xây+dựng+những+điều+tuyệt+vời" alt="Typing SVG" />
