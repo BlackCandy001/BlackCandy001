@@ -3,7 +3,7 @@
 # 🍫 Chào mừng bạn đến với không gian của tôi!
 
 <p align="center">
-  <img arknights-w-dance.gif width="100%" />
+  <img src="arknights-w-dance.gif" width="100%" />
 </p>
 
 ---
