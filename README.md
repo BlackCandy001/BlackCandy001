@@ -6,6 +6,12 @@
   <img src="arknights-w-dance.gif" width="100%" />
 </p>
 
+<p align="center">
+  <audio controls>
+    <source src="w.mp3" type="audio/mpeg">
+  </audio>
+</p>
+
 ---
 
 ### 💫 Về tôi
