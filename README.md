@@ -1,7 +1,5 @@
 <div align="center">
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=2500&color=8C43EA&vCenter=true&width=450&height=40&lines=🍫 Chào mừng bạn đến với không gian của tôi!;I'm+Black+Candy;Application+%7C+DevOps+%7C+Cloud+Computing+%7C+Network+Security" alt="Typing SVG" />
-</div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%8D%AB+Ch%C3%A0o+m%E1%BB%ABng+b%E1%BA%A1n+%C4%91%E1%BA%BFn+v%E1%BB%9Bi+kh%C3%B4ng+gian+c%E1%BB%A7a+t%C3%B4i" alt="Typing SVG" /></a>
 
 <p align="center">
   <img src="arknights-w-dance.gif" width="100%" />
