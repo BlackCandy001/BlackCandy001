@@ -1,5 +1,6 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%8D%AB+Ch%C3%A0o+m%E1%BB%ABng+b%E1%BA%A1n+%C4%91%E1%BA%BFn+v%E1%BB%9Bi+kh%C3%B4ng+gian+c%E1%BB%A7a+t%C3%B4i" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=10000&color=F45BEE&background=FF3D9000&width=435&lines=%F0%9F%8D%AB+Ch%C3%A0o+m%E1%BB%ABng+b%E1%BA%A1n+%C4%91%E1%BA%BFn+v%E1%BB%9Bi+Black+Candy" alt="Typing SVG" /></a>
+
 
 <p align="center">
   <img src="arknights-w-dance.gif" width="100%" />
