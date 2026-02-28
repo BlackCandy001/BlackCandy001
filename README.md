@@ -1,6 +1,7 @@
 <div align="center">
-
-# 🍫 Chào mừng bạn đến với không gian của tôi!
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=2500&color=8C43EA&vCenter=true&width=450&height=40&lines=🍫 Chào mừng bạn đến với không gian của tôi!;I'm+Black+Candy;Application+%7C+DevOps+%7C+Cloud+Computing+%7C+Network+Security" alt="Typing SVG" />
+</div>
 
 <p align="center">
   <img src="arknights-w-dance.gif" width="100%" />
