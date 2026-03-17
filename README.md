@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="arknights-w-dance.gif" width="100%" />
+  <img src="[arknights-w-dance.gif](https://cdn.buymeacoffee.com/uploads/project_updates/7332376/2025/08/09/083233_1754728351933_1000012748.gif.gif)" width="100%" />
 </p>
 
 <p align="center">
