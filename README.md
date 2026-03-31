@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://count.getloli.com/@:gelbooru?theme=moebooru" alt=":name" />
+  <img src="https://count.getloli.com/@:rule34?theme=moebooru" alt=":name" />
 </p>
 
 <p align="center">
