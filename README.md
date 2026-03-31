@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="arknights-w-dance.gif" width="100%" />
+  <img src="https://count.getloli.com/@:gelbooru?theme=moebooru" alt=":name" />
 </p>
 
 <p align="center">
