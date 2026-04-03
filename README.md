@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://count.getloli.com/@:rule34?theme=moebooru" alt=":name" />
+  <img src="https://count.getloli.com/@Elaina69?name=Elaina69Profile&theme=booru-lewd&padding=7&offset=0&align=center&scale=1.7&pixelated=1&darkmode=auto" />
 </p>
 
 <p align="center">
